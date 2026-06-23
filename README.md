@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first repositary
 <br>
-Author - Ahsan Malik
+Author - Ahsan iqbal
